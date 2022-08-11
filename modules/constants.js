@@ -6,4 +6,3 @@ export const container = document.querySelector('#container');
 export const allSection = document.querySelectorAll('.section');
 export const allLinks = document.querySelector('.nav-links');
 export const year = document.querySelector('.date');
-export const divActive = document.querySelectorAll('.bar');

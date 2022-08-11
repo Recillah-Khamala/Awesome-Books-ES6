@@ -1,9 +1,9 @@
 import {
   title,
-  author
-} from "./constants";
+  author,
+} from './constants.js';
 
-import Book from "./class";
+import Book from './class.js';
 
 const storeBook = new Book();
 
@@ -29,5 +29,5 @@ const addToList = (e) => {
 
 export {
   addremoveList,
-  addToList
-}
+  addToList,
+};
