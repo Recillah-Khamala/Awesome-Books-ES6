@@ -21,6 +21,6 @@
   "ignorePatterns": [
     "dist/",
     "build/",
-    "./modules/luxon.js"
+    "modules/luxon.js"
   ]
 }
