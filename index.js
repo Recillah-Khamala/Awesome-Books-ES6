@@ -9,7 +9,7 @@ import Book from './modules/class.js';
 
 import {
   addToList,
-  addremoveList,
+  addremoveList
 } from './modules/library.js';
 
 import click from './modules/nav.js';
